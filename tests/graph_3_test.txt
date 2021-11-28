@@ -17,6 +17,7 @@ arc b h 3 1
 arc g k 6 1
 arc g j 2 1
 arc h k 7 1
+arc h i 7 1
 arc c h 6 1
 arc a c 4 1
 arc a f 3 1
