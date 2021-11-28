@@ -1,0 +1,26 @@
+9
+14
+sommet a
+sommet b
+sommet c
+sommet f
+sommet g
+sommet h
+sommet i
+sommet j
+sommet k
+sommet l
+arc a b 1 1
+arc b g 3 1
+arc a b 2 1
+arc b h 3 1
+arc g k 6 1
+arc g j 2 1
+arc h k 7 1
+arc c h 6 1
+arc a c 4 1
+arc a f 3 1
+arc f i 5 1
+arc i l 9 1
+arc i l 8 1
+arc a i 10 1
